@@ -16,7 +16,7 @@ h1{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 18px;font-family:Geo
 .name-cn{font-family:"KaiTi","STKaiti","Noto Serif SC",serif;font-size:.42em;line-height:1.5;letter-spacing:.1em;color:var(--muted);white-space:nowrap}
 .lead{font-family:Georgia,"Times New Roman",serif;font-size:27px;line-height:1.4;letter-spacing:-.4px;margin:0 0 22px}
 .bio{font-size:15px;margin:0 0 14px;max-width:620px;color:#4f5b5a}
-.profile-links{display:flex;gap:25px;align-items:center;margin-top:26px;font-size:13px;font-weight:600}.profile-links a{text-decoration:none}.file-type{font-size:10px;font-weight:400}
+.profile-links{display:flex;gap:25px;align-items:center;margin-top:26px;font-size:13px;font-weight:600}.profile-links a{text-decoration:none}
 .research-note{align-self:stretch;border-left:1px solid var(--line);padding:10px 0 4px 32px;display:flex;flex-direction:column;justify-content:center}
 .portrait{display:block;width:184px;max-width:100%;height:auto;border-radius:10px;border:1px solid var(--line);margin-bottom:28px;background:white}
 .research-note .eyebrow{margin-bottom:10px;font-size:9px}
