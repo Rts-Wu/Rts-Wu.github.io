@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="220" viewBox="0 0 640 220" fill="none">
+  <title>Piano and tennis</title>
+  <desc>A piano keyboard with musical notes beside a tennis racket and ball on a green court.</desc>
+  <defs>
+    <pattern id="strings" width="9" height="9" patternUnits="userSpaceOnUse">
+      <path d="M0 0H9M0 0V9" stroke="#738a79" stroke-width="0.8"/>
+    </pattern>
+  </defs>
+  <path fill="#efebe2" d="M0 0h320v220H0z"/>
+  <path fill="#e3ebe0" d="M320 0h320v220H320z"/>
+  <circle cx="80" cy="48" r="34" fill="#e5dece"/>
+  <path d="M39 175c56-18 165-18 243 0" stroke="#d6cbb7"/>
+  <g transform="translate(53 78) rotate(-7 106 49)">
+    <rect width="218" height="92" rx="5" fill="#303d38"/>
+    <path fill="#faf8f1" d="M9 23h200v59H9z"/>
+    <g stroke="#c5c1b5">
+      <path d="M34 23v59M59 23v59M84 23v59M109 23v59M134 23v59M159 23v59M184 23v59"/>
+    </g>
+    <g fill="#303d38">
+      <path d="M26 23h15v36H26zM51 23h15v36H51zM101 23h15v36h-15zM126 23h15v36h-15zM151 23h15v36h-15zM201 23h8v36h-8z"/>
+    </g>
+    <path d="M12 12h194" stroke="#9b9d81" stroke-width="1.3"/>
+  </g>
+  <g stroke="#8d7752" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M227 48V25l23-5v23"/>
+    <path d="M227 31l23-5"/>
+  </g>
+  <ellipse cx="222" cy="48" rx="6" ry="4" transform="rotate(-20 222 48)" fill="#8d7752"/>
+  <ellipse cx="245" cy="44" rx="6" ry="4" transform="rotate(-20 245 44)" fill="#8d7752"/>
+  <g stroke="#fcfcf5" stroke-width="1.5" opacity=".9">
+    <path d="M350 32h262v155H350zM371 32v155M591 32v155M350 109h262M371 70h220M371 148h220M481 70v78"/>
+  </g>
+  <g transform="translate(468 102) rotate(33)">
+    <ellipse rx="37" ry="48" fill="#f1f2e8"/>
+    <ellipse rx="30" ry="40" fill="url(#strings)" stroke="#466950" stroke-width="2"/>
+    <ellipse rx="37" ry="48" stroke="#315744" stroke-width="4"/>
+    <path d="M-16 44l11 28H5l11-28M0 72v24" stroke="#315744" stroke-width="4"/>
+    <rect x="-7" y="91" width="14" height="41" rx="4" fill="#ad895b"/>
+    <path d="M-5 99l10 5M-5 108l10 5M-5 117l10 5" stroke="#dec8a5" stroke-width="1.5"/>
+  </g>
+  <circle cx="566" cy="157" r="17" fill="#d0d783" stroke="#a7b568"/>
+  <path d="M558 142c-4 11-1 22 14 30" stroke="#ffffe9" stroke-width="2"/>
+</svg>
